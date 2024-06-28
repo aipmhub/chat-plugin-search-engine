@@ -22,7 +22,7 @@ const themeConfig = {
   footer: 'Made with 🤯 by AiPMHub',
   name: 'Search Engine',
   socialLinks: {
-    discord: 'https://discord.gg/AYFPHvv2jT',
+    discord: 'https://discord.gg/sYB5zSyD',
     github: homepage,
   },
 };

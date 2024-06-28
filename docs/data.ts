@@ -1,4 +1,4 @@
-import { Result } from '@aipmorg/chat-plugin-search-engine';
+import { Result } from '@lobehub/chat-plugin-search-engine';
 
 export const data: Result = [
   {
