@@ -20,7 +20,7 @@
   "author": "AiPMHub",
   "createAt": "2024-06-17",
   "homepage": "https://github.com/aipmhub/chat-plugin-search-engine",
-  "identifier": "search-engine",
+  "identifier": "search_engine",
   "meta": {
     "avatar": "🔍",
     "tags": ["web", "search"],
