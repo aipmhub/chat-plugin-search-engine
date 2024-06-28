@@ -14,12 +14,12 @@ const themeConfig = {
       text: 'Github',
     },
     {
-      link: 'https://github.com/lobehub/lobe-chat',
-      text: 'Try it on LobeChat',
+      link: 'https://github.com/aipmhub/aipm-chat',
+      text: 'Try it on AiPMChat',
       type: 'primary',
     },
   ],
-  footer: 'Made with 🤯 by LobeHub',
+  footer: 'Made with 🤯 by AiPMHub',
   name: 'Search Engine',
   socialLinks: {
     discord: 'https://discord.gg/AYFPHvv2jT',
@@ -43,5 +43,5 @@ export default defineConfig({
   }`,
   ],
   themeConfig,
-  title: 'Search Engine - Lobe Chat Plugin',
+  title: 'Search Engine - AiPM Chat Plugin',
 });

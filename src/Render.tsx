@@ -1,4 +1,4 @@
-import { PluginRenderProps } from '@lobehub/chat-plugin-sdk/client';
+import { PluginRenderProps } from '@aipmorg/chat-plugin-sdk/client';
 import { ActionIcon, SpotlightCard } from '@lobehub/ui';
 import { Grid3x3, List } from 'lucide-react';
 import { memo, useState } from 'react';

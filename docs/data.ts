@@ -1,15 +1,15 @@
-import { Result } from '@lobehub/chat-plugin-search-engine';
+import { Result } from '@aipmorg/chat-plugin-search-engine';
 
 export const data: Result = [
   {
     content:
-      'Empowering your AI dreams with LobeHub. LobeHub has 16 repositories available. Follow their code on GitHub.',
+      'Empowering your AI dreams with AiPMHub. AiPMHub has 16 repositories available. Follow their code on GitHub.',
     displayed_link: 'https://github.com › lobehub',
     favicon:
       'https://serpapi.com/searches/64e83bc4c9990330f48fd62f/images/f40516e98093ab4c002d39bf835b3922f1bbde9729ef8e1ae8a488d7c74c8ad5.png',
-    link: 'https://github.com/lobehub',
+    link: 'https://github.com/aipmhub',
     source: 'github.com',
-    title: 'LobeHub - GitHub',
+    title: 'AiPMHub - GitHub',
   },
   {
     content:
@@ -22,17 +22,17 @@ export const data: Result = [
     title: 'lobehub/lobe-ui - GitHub',
   },
   {
-    content: 'Meet the LobeHub: Empowering your AI dreams with LobeHub.',
+    content: 'Meet the AiPMHub: Empowering your AI dreams with AiPMHub.',
     displayed_link: 'https://lablab.ai › anthropic-ai-hackathon › l...',
     favicon:
       'https://serpapi.com/searches/64e83bc4c9990330f48fd62f/images/f40516e98093ab4c002d39bf835b39220df8c473af72e6e3eaf6444118e39dcd.png',
     link: 'https://lablab.ai/event/anthropic-ai-hackathon/lobehub',
     source: 'lablab.ai',
-    title: 'Team: LobeHub - Lablab.ai',
+    title: 'Team: AiPMHub - Lablab.ai',
   },
   {
     content:
-      'dumi-theme-antd-style · 源码. dumi2 theme for antd-style document website. dumi-theme-lobehub · 源码. dumi2 theme for LobeHub document website.',
+      'dumi-theme-antd-style · 源码. dumi2 theme for antd-style document website. dumi-theme-lobehub · 源码. dumi2 theme for AiPMHub document website.',
     displayed_link: 'https://d.umijs.org › theme › market',
     link: 'https://d.umijs.org/theme/market',
     source: 'umijs.org',
@@ -71,14 +71,14 @@ export const data: Result = [
   },
   {
     content:
-      'Lobe Chat Plugin SDK, help you to build an amazing chat plugin for Lobe Chat - 1.0.1 - a TypeScript package on npm - Libraries.io.',
+      'AiPM Chat Plugin SDK, help you to build an amazing chat plugin for AiPM Chat - 1.0.1 - a TypeScript package on npm - Libraries.io.',
     date: '7天前',
     displayed_link: 'https://libraries.io › npm › chat-plugin-sdk',
     favicon:
       'https://serpapi.com/searches/64e83bc4c9990330f48fd62f/images/f40516e98093ab4c002d39bf835b3922256f22e96143101960e1008fb76a0c04.png',
     link: 'https://libraries.io/npm/@lobehub%2Fchat-plugin-sdk',
     source: 'libraries.io',
-    title: '@lobehub/chat-plugin-sdk 1.0.1 on npm - Libraries.io',
+    title: '@aipmorg/chat-plugin-sdk 1.0.1 on npm - Libraries.io',
   },
   {
     content:

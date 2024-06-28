@@ -18,8 +18,8 @@
     "paths": {
       "@@/*": [".dumi/tmp/*"],
       "@/*": ["src/*"],
-      "@lobehub/chat-plugin-search-engine": ["src"],
-      "@lobehub/chat-plugin-search-engine/": ["src/*"]
+      "@aipmorg/chat-plugin-search-engine": ["src"],
+      "@aipmorg/chat-plugin-search-engine/": ["src/*"]
     },
     "types": ["vitest/globals"]
   },

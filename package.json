@@ -1,10 +1,10 @@
 {
-  "name": "@lobehub/chat-plugin-search-engine",
+  "name": "@aipmorg/chat-plugin-search-engine",
   "version": "1.6.0",
   "private": true,
   "description": "This plugin allows for the use of the SerpApi search engine",
-  "homepage": "https://github.com/lobehub/chat-plugin-search-engine",
-  "repository": "https://github.com/lobehub/chat-plugin-search-engine.git",
+  "homepage": "https://github.com/aipmhub/chat-plugin-search-engine",
+  "repository": "https://github.com/aipmhub/chat-plugin-search-engine.git",
   "scripts": {
     "build": "father build",
     "ci": "npm run lint && npm run type-check",
@@ -50,16 +50,16 @@
     "not ie <= 10"
   ],
   "dependencies": {
-    "@lobehub/chat-plugin-sdk": "^1",
-    "@lobehub/chat-plugins-gateway": "^1",
+    "@aipmorg/chat-plugin-sdk": "^1",
+    "@aipmorg/chat-plugins-gateway": "^1",
     "antd-style": "^3",
     "lucide-react": "latest",
     "query-string": "^8",
     "react-layout-kit": "^1"
   },
   "devDependencies": {
+    "@aipmorg/lint": "latest",
     "@commitlint/cli": "^17",
-    "@lobehub/lint": "latest",
     "@lobehub/ui": "latest",
     "@types/react": "^18",
     "@vercel/node": "^2",

@@ -2,7 +2,7 @@ import {
   PluginErrorType,
   createErrorResponse,
   getPluginSettingsFromRequest,
-} from '@lobehub/chat-plugin-sdk';
+} from '@aipmorg/chat-plugin-sdk';
 
 import { Settings } from './_types';
 import runner from './_utils';

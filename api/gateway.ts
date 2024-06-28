@@ -1,4 +1,4 @@
-import { createLobeChatPluginGateway } from '@lobehub/chat-plugins-gateway';
+import { createLobeChatPluginGateway } from '@aipmorg/chat-plugins-gateway';
 
 export const config = {
   runtime: 'edge',
